@@ -1,0 +1,10 @@
+{
+	"namespace": "stock_schema.avro",
+	"type": "record",
+	"name": "Stock",
+	"fields": [
+		{"name": "name", "type": "string"},
+		{"name": "time",  "type": "string"},
+		{"name": "price", "type": "float"}
+	]
+}

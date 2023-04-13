@@ -6,7 +6,8 @@ Create a Streaming Data Pipeline using Kafka
 
 ## Step 1:
 Create a Kafka Producer and Consumer to send and consume any sample data. I did thi as first steps so that I can extablish the pipeline.
-Reference: https://github.com/dstaka/kafka-spark-demo-pyconsg19
+GitHub Reference: https://github.com/dstaka/kafka-spark-demo-pyconsg19
+Learning Reference: https://www.youtube.com/watch?v=w6A-uDEb7JY&list=PLjfRmoYoxpNrs0VmIq6mOTqXP52RfZdRf
 
 ## Step 2:
 Fetch data from yfinance for one day and send the data from Producer and conume via Consumer.
